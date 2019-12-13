@@ -40,7 +40,7 @@ After running the test, you can find the test coverage reports which JaCoCo plug
  - This is a sample project based on creation of product and ordering these product by one by. In real system, ordering mechanism should cover thread safe, async and concurrent implementation (like CompleteableFuture with suitable thread pool)
  - User auth mechanism shoul be implemented (using LDAP, security config and JWT).
  - Far way better coverege with A LOT OF TEST 
- - Real Mongo can be supported one of open source RDBMS, this relation can be seperated with using proper Facade Pattern and of course Profiles. 
+ - Real Mongo can be supported by one of open source RDBMS, this relation can be seperated with using proper Facade Pattern and of course Profiles. 
 
 
  
